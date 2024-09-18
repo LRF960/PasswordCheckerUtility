@@ -3,6 +3,9 @@ import java.util.Scanner;
 import java.lang.String;
 import java.util.regex.*;
 
+//Luis Ruiz Flores
+// CMSC204
+
 public class PasswordCheckerUtility 
 {
 
